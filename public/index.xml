@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://avyakta.life/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="https://avyakta.life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>10 forms</title>
-      <link>https://avyakta.life/posts/10-forms/</link>
+      <link>http://localhost:1313/posts/10-forms/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>https://avyakta.life/posts/10-forms/</guid>
+      <guid>http://localhost:1313/posts/10-forms/</guid>
       <description>Matsya - Water Earth is hidden by it. Its what constitutes life around us.&#xA;We started off at the sea. Tiny blob. Single cell. That&amp;rsquo;s us. The first form of life.&#xA;Water has since been a vital part of who we are. 70% of us, are in water.&#xA;&amp;hellip; To be continued</description>
     </item>
   </channel>
