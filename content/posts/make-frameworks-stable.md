@@ -2,7 +2,7 @@
 title = 'Make Frameworks Stable'
 description = "Why don't devs make software that last long?"
 date = 2024-03-29T01:15:38+05:30
-draft = true
+draft = false
 +++
 
 # Software that lasts for years

@@ -1,5 +1,5 @@
 baseURL = 'https://avyakta.life'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Life, code and the mind'
 
 theme = 'paper'
