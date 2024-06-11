@@ -1,0 +1,289 @@
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html
+  class="not-ready lg:text-base"
+  style="--bg: #faf8f1"
+  lang="en-us"
+>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+
+  
+  <title>Make Frameworks Stable - My New Hugo Site</title>
+
+  
+  <meta name="theme-color" />
+
+  
+  
+  
+  
+  <meta name="description" content="Software that lasts for years C. Let&rsquo;s start with C, the grandpa of all languages. 3 years ago I got myself writing tree-sitter-svelte &amp;&amp; Ekon. The projects aren&rsquo;t all original and written from scratch. I had not done C programming since my C classes in University first year (It was 7 years before I started them). C is hard. But C is constant. It hasn&rsquo;t changed in over 40 years. Maybe one or two changes here and there." />
+  <meta name="author" content="My New Hugo Site" />
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="preload stylesheet" as="style" href="http://localhost:1313/main.min.css" />
+
+  
+  
+  
+  
+  
+  <link rel="preload" as="image" href="http://localhost:1313/theme.png" />
+
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  <script
+    defer
+    src="http://localhost:1313/highlight.min.js"
+    onload="hljs.initHighlightingOnLoad();"
+  ></script>
+  
+
+  
+  
+  
+
+  
+  <link rel="icon" href="http://localhost:1313/favicon.ico" />
+  <link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png" />
+
+  
+  <meta name="generator" content="Hugo 0.124.1">
+
+  
+  
+  
+</head>
+
+  <body class="text-black duration-200 ease-out dark:text-white">
+    <header class="mx-auto flex h-[4.5rem] max-w-3xl px-8 lg:justify-center">
+  <div class="relative z-50 mr-auto flex items-center">
+    <a
+      class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
+      href="http://localhost:1313/"
+      >My New Hugo Site</a
+    >
+    <div
+      class="btn-dark text-[0] ml-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
+      role="button"
+      aria-label="Dark"
+    ></div>
+  </div>
+
+  <div
+    class="btn-menu relative z-50 -mr-8 flex h-[4.5rem] w-[5rem] shrink-0 cursor-pointer flex-col items-center justify-center gap-2.5 lg:hidden"
+    role="button"
+    aria-label="Menu"
+  ></div>
+
+  
+
+  <script>
+    
+    const htmlClass = document.documentElement.classList;
+    setTimeout(() => {
+      htmlClass.remove('not-ready');
+    }, 10);
+
+    
+    const btnMenu = document.querySelector('.btn-menu');
+    btnMenu.addEventListener('click', () => {
+      htmlClass.toggle('open');
+    });
+
+    
+    const metaTheme = document.querySelector('meta[name="theme-color"]');
+    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const setDark = (isDark) => {
+      metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
+      htmlClass[isDark ? 'add' : 'remove']('dark');
+      localStorage.setItem('dark', isDark);
+    };
+
+    
+    const darkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+    if (htmlClass.contains('dark')) {
+      setDark(true);
+    } else {
+      const darkVal = localStorage.getItem('dark');
+      setDark(darkVal ? darkVal === 'true' : darkScheme.matches);
+    }
+
+    
+    darkScheme.addEventListener('change', (event) => {
+      setDark(event.matches);
+    });
+
+    
+    const btnDark = document.querySelector('.btn-dark');
+    btnDark.addEventListener('click', () => {
+      setDark(localStorage.getItem('dark') !== 'true');
+    });
+  </script>
+
+  <div
+    class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
+  >
+    
+    
+
+    
+  </div>
+</header>
+
+
+    <main
+      class="prose prose-neutral relative mx-auto min-h-[calc(100%-9rem)] max-w-3xl px-8 pb-16 pt-12 dark:prose-invert"
+    >
+      
+
+<article>
+  <header class="mb-16">
+    <h1 class="!my-0 pb-2.5">Make Frameworks Stable</h1>
+
+    
+    <div class="text-sm antialiased opacity-60">
+      
+      <time>Mar 29, 2024</time>
+      
+      
+      
+      
+    </div>
+    
+  </header>
+
+  <section><h1 id="software-that-lasts-for-years">Software that lasts for years</h1>
+<p><code>C</code>. Let&rsquo;s start with <code>C</code>, the grandpa of all languages. 3 years ago I got myself writing <a href="https://github.com/Himujjal/tree-sitter-svelte">tree-sitter-svelte</a> &amp;&amp; <a href="https://github.com/ekon-org/ekon">Ekon</a>. The projects aren&rsquo;t all original and written from scratch.
+I had not done C programming since my <code>C</code> classes in University first year (It was 7 years before I started them). <code>C</code> is hard. But <code>C</code> is constant. It hasn&rsquo;t changed in over 40 years. Maybe one or two changes here and there. But once you learn it well, you
+are good to go for the next decade at least. That tells something about <code>C</code>. It has its problems, but it is probably the greatest+simplest piece of software ever developed by human beings. It lasted for 50 years and will continue to do so for the next 20 years
+until languages like <code>Zig</code> and <code>Rust</code> take its place. <code>React</code> and the front-end world learn nothing from here. They just want to make changes for the sake of it.</p>
+<h1 id="react">React</h1>
+<h3 id="first-time-with-react">First time with React</h3>
+<p>I learnt it during my internship at a startup named <a href="https://plopnow.com">Plop</a>, where I had to make the dashboard for writers using Ant Design. I didn&rsquo;t know design patterns. I didn&rsquo;t know HOC, but within 2 months, I had made a great piece of software.
+Back then, we used Webpack on my old Lenovo machine, used Class components, those long Redux stores etc. It was good. Except Redux, whose initially design was fuck-all. Seriously! looking back now, that was bad. I built an HOC back then with a basic minimal
+Svelte Store (❤️) like design. But overall, the devex was only bad due to wonky HMR and no Vite. Class components once you learn them were just fine. The separation of concerns were very clear. I could make an app quite fast once learnt. I was young and quite the enthusiast
+as well.</p>
+<h3 id="second-time-with-react">Second time with React</h3>
+<p>The second time I had a stint with React was at <a href="https://spiralyze.com">Spiralyze</a>. I recreated the whole front-end including some complex user actions. It was great. I had my custom components made. The app was made. But this time I used functional components. I learnt
+<code>useState</code>, <code>useRef</code> and all that shit. I didn&rsquo;t use much of hoooks. Didn&rsquo;t see much point of them. But then again, it was fine. I still made the app quite fast and functional. But once thing I picked up at this period was <a href="https://tailwind.com">Tailwind</a> and React functional
+components. I didn&rsquo;t really like them. I didn&rsquo;t see much point of making functions again and again and adding functions inside functions as event handlers and all. Who the fuck does that! Seriously. <code>Tailwind</code> was great. I used <code>Jotai</code> and it was great as well.</p>
+<p>But it was at that time that I realized that early designs of the software or libraries you write has to be thought from the perspective of:</p>
+<blockquote>
+<p>Will this library/software design last for 20+ years? Will it be there for my children to see this through?</p>
+</blockquote>
+<p>Software that lasts for long periods is very important.</p>
+<p>Writing everything from scratch is not always a good thing to do.</p>
+<h3 id="third-time-with-react">Third time with React</h3>
+<p>This time, and the time is now. I joined <a href="https://wokay.com">Wokay</a>. The whole paradigm of React programming I saw here thanks to Tushar was different. It was clean, yet so messy. Something was wrong. There were too many compositions.</p>
+<h1 id="speed-of-rust">Speed of Rust</h1>
+<p>Talking about Rust has its fair share of problems. Rust moves fast. Unlike <code>C/C++</code> Rust adds almost a new change in its library. And at this pace, its going to be time till learning Rust will be unlearnable. You learn
+Rust today, you will not identify newer Rust code maybe 5-10 years from now. Modern C++ vibes. Nonetheless, Rust is a great programming language.</p>
+</section>
+
+  
+  
+
+  
+  
+  
+  
+  <nav class="mt-24 flex rounded-lg bg-black/[3%] text-lg dark:bg-white/[8%]">
+    
+    
+    <a
+      class="ml-auto flex w-1/2 items-center justify-end rounded-r-md p-6 pl-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
+      href="http://localhost:1313/posts/10-forms/"
+      ><span>10 forms</span><span class="ml-1.5">→</span></a
+    >
+    
+  </nav>
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+
+  
+</article>
+
+
+    </main>
+
+    <footer
+  class="opaco mx-auto flex h-[4.5rem] max-w-3xl items-center px-8 text-[0.9em] opacity-60"
+>
+  <div class="mr-auto">
+    &copy; 2024
+    <a class="link" href="http://localhost:1313/">My New Hugo Site</a>
+  </div>
+  <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
+    >Powered by Hugo️️</a
+  >️
+  <a
+    class="link"
+    href="https://github.com/nanxiaobei/hugo-paper"
+    rel="noopener"
+    target="_blank"
+    >✎ Paper</a
+  >
+</footer>
+
+  </body>
+</html>

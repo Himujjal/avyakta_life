@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://avyakta.life/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="https://avyakta.life/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jun 2024 01:15:38 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navigating the distracted world</title>
+      <link>http://localhost:1313/posts/micro-blogs/</link>
+      <pubDate>Tue, 11 Jun 2024 01:15:38 +0530</pubDate>
+      <guid>http://localhost:1313/posts/micro-blogs/</guid>
+      <description>Navigating the Distracted World Imagine drifting to sleep with a heart full of contentment. This simple joy could transform our daily lives, eliminating countless so-called &amp;ldquo;necessities.&amp;rdquo;&#xA;Yet, we&amp;rsquo;re trapped in a whirlwind of distractions. Technology and these &amp;ldquo;needs&amp;rdquo; are evolving faster than our ability to live optimally. And this trend is only accelerating.&#xA;True happiness lies in minimizing distractions and embracing the core elements of our humanity.&#xA;Good food, good routines, good work, good people.</description>
+    </item>
     <item>
       <title>10 forms</title>
-      <link>https://avyakta.life/posts/10-forms/</link>
+      <link>http://localhost:1313/posts/10-forms/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>https://avyakta.life/posts/10-forms/</guid>
+      <guid>http://localhost:1313/posts/10-forms/</guid>
       <description>Matsya - Water Earth is hidden by it. Its what constitutes life around us.&#xA;We started off at the sea. Tiny blob. Single cell. That&amp;rsquo;s us. The first form of life.&#xA;Water has since been a vital part of who we are. 70% of us, are in water.&#xA;&amp;hellip; To be continued</description>
     </item>
   </channel>
