@@ -7,6 +7,8 @@ draft = true
 This is a confession post. I am an addict. I get addicted stuff quite easily and I don't know why. But I know this.
 The first step to overcoming addiction is to accept it. To say: "I am an addict". So, here I am. Doing just that!
 
+# Internet Addiction from the internet
+
 
 ## Problems that I face
 
