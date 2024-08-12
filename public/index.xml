@@ -1,25 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Life, code and the mind</title>
+    <link>https://avyakta.life/</link>
+    <description>Recent content on Life, code and the mind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2024 01:15:38 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Aug 2024 14:28:55 +0530</lastBuildDate>
+    <atom:link href="https://avyakta.life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Write With My Eyes Closed with a little help from AI</title>
+      <link>https://avyakta.life/posts/how-i-write-with-my-eyes-closed/</link>
+      <pubDate>Mon, 12 Aug 2024 14:28:55 +0530</pubDate>
+      <guid>https://avyakta.life/posts/how-i-write-with-my-eyes-closed/</guid>
+      <description>In recent days, I’ve embraced an unconventional method of writing—by closing my eyes.&#xA;I’ve discovered that my thoughts flow more freely when I’m not distracted by the visual feedback of seeing the words as they appear on the screen.&#xA;When I see what I’m typing, my writing slows down as I instinctively edit and correct as I go.&#xA;Instead, I now close my eyes and let my thoughts pour out onto the page, creating a draft full of unfiltered ideas.</description>
+    </item>
+    <item>
+      <title>How Offline First Apps Improve UX</title>
+      <link>https://avyakta.life/posts/how-offline-first-apps-help/</link>
+      <pubDate>Mon, 12 Aug 2024 14:10:46 +0530</pubDate>
+      <guid>https://avyakta.life/posts/how-offline-first-apps-help/</guid>
+      <description>In this post, I&amp;rsquo;ll be discussing with a non-tech person how offline-first apps enhance user experience (UX).&#xA;What is Offline First? Offline first means that any action you take within the app is performed offline first, directly in your browser. If there&amp;rsquo;s an internet connection—which 96% of the people using our product have—we then apply those actions to our back-end.&#xA;So, the user sees the action being taken instantly, while the actual persistence of the action and the state is synced with the back-end and servers later, when possible.</description>
+    </item>
+    <item>
+      <title>Adapt or Die 2024</title>
+      <link>https://avyakta.life/posts/adapt-or-die-2024/</link>
+      <pubDate>Sun, 04 Aug 2024 05:34:48 +0530</pubDate>
+      <guid>https://avyakta.life/posts/adapt-or-die-2024/</guid>
+      <description>Survival and fighting for survival is in our DNA. That&amp;rsquo;s how our ancestors jumped off those tree brances and started walking off into the sunset. Over the years, we&amp;rsquo;ve adapted to our environment, our surroundings, and our needs. We&amp;rsquo;ve learned to thrive in the harsh conditions of our world. Till today. The 21st century.&#xA;The 21st century Beep. Boop. Beep. The phone&amp;rsquo;s notification lights up. That&amp;rsquo;s life now. What is life in 21st century?</description>
+    </item>
+    <item>
+      <title>Thoughts Travel Faster Than Light</title>
+      <link>https://avyakta.life/posts/thoughts-travel-faster-than-light/</link>
+      <pubDate>Mon, 17 Jun 2024 21:35:22 +0530</pubDate>
+      <guid>https://avyakta.life/posts/thoughts-travel-faster-than-light/</guid>
+      <description>In the hustle and bustle of our modern world, where distractions lurk at every corner and the demand for constant attention is unrelenting, finding focus can feel like chasing a fleeting dream. The human mind, akin to a restless monkey swinging from one branch to another, struggles to settle on a single thought amidst the chaos of everyday life.&#xA;Continuous Journalling &amp;amp; ADHD In the quest for clarity and productivity, one technique stands out as a beacon of hope amidst the storm - continuous journalling.</description>
+    </item>
     <item>
       <title>Navigating the distracted world</title>
-      <link>http://localhost:1313/posts/micro-blogs/</link>
+      <link>https://avyakta.life/posts/micro-blogs/</link>
       <pubDate>Tue, 11 Jun 2024 01:15:38 +0530</pubDate>
-      <guid>http://localhost:1313/posts/micro-blogs/</guid>
-      <description>Navigating the Distracted World Imagine drifting to sleep with a heart full of contentment. This simple joy could transform our daily lives, eliminating countless so-called &amp;ldquo;necessities.&amp;rdquo;&#xA;Yet, we&amp;rsquo;re trapped in a whirlwind of distractions. Technology and these &amp;ldquo;needs&amp;rdquo; are evolving faster than our ability to live optimally. And this trend is only accelerating.&#xA;True happiness lies in minimizing distractions and embracing the core elements of our humanity.&#xA;Good food, good routines, good work, good people.</description>
+      <guid>https://avyakta.life/posts/micro-blogs/</guid>
+      <description>Imagine drifting to sleep with a heart full of contentment. This simple joy could transform our daily lives, eliminating countless so-called &amp;ldquo;necessities.&amp;rdquo;&#xA;Yet, we&amp;rsquo;re trapped in a whirlwind of distractions. Technology and these &amp;ldquo;needs&amp;rdquo; are evolving faster than our ability to live optimally. And this trend is only accelerating.&#xA;True happiness lies in minimizing distractions and embracing the core elements of our humanity.&#xA;Good food, good routines, good work, good people.</description>
+    </item>
+    <item>
+      <title>Make Frameworks Stable</title>
+      <link>https://avyakta.life/posts/make-frameworks-stable/</link>
+      <pubDate>Fri, 29 Mar 2024 01:15:38 +0530</pubDate>
+      <guid>https://avyakta.life/posts/make-frameworks-stable/</guid>
+      <description>Software that lasts for years C. Let&amp;rsquo;s start with C, the grandpa of all languages. 3 years ago I got myself writing tree-sitter-svelte &amp;amp;&amp;amp; Ekon. The projects aren&amp;rsquo;t all original and written from scratch. I had not done C programming since my C classes in University first year (It was 7 years before I started them). C is hard. But C is constant. It hasn&amp;rsquo;t changed in over 40 years. Maybe one or two changes here and there.</description>
     </item>
     <item>
       <title>10 forms</title>
-      <link>http://localhost:1313/posts/10-forms/</link>
+      <link>https://avyakta.life/posts/10-forms/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/posts/10-forms/</guid>
+      <guid>https://avyakta.life/posts/10-forms/</guid>
       <description>Matsya - Water Earth is hidden by it. Its what constitutes life around us.&#xA;We started off at the sea. Tiny blob. Single cell. That&amp;rsquo;s us. The first form of life.&#xA;Water has since been a vital part of who we are. 70% of us, are in water.&#xA;&amp;hellip; To be continued</description>
     </item>
   </channel>

@@ -2,20 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://avyakta.life/posts/how-i-write-with-my-eyes-closed/</loc>
+    <lastmod>2024-08-12T14:28:55+05:30</lastmod>
+  </url><url>
+    <loc>https://avyakta.life/</loc>
+    <lastmod>2024-08-12T14:28:55+05:30</lastmod>
+  </url><url>
+    <loc>https://avyakta.life/posts/</loc>
+    <lastmod>2024-08-12T14:28:55+05:30</lastmod>
+  </url><url>
+    <loc>https://avyakta.life/posts/how-offline-first-apps-help/</loc>
+    <lastmod>2024-08-12T14:10:46+05:30</lastmod>
+  </url><url>
+    <loc>https://avyakta.life/posts/adapt-or-die-2024/</loc>
+    <lastmod>2024-08-04T05:34:48+05:30</lastmod>
+  </url><url>
+    <loc>https://avyakta.life/posts/thoughts-travel-faster-than-light/</loc>
+    <lastmod>2024-06-17T21:35:22+05:30</lastmod>
+  </url><url>
+    <loc>https://avyakta.life/posts/micro-blogs/</loc>
     <lastmod>2024-06-11T01:15:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/micro-blogs/</loc>
-    <lastmod>2024-06-11T01:15:38+05:30</lastmod>
+    <loc>https://avyakta.life/posts/make-frameworks-stable/</loc>
+    <lastmod>2024-03-29T01:15:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-06-11T01:15:38+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/10-forms/</loc>
+    <loc>https://avyakta.life/posts/10-forms/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://avyakta.life/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://avyakta.life/tags/</loc>
   </url>
 </urlset>
