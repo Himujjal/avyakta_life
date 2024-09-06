@@ -2,10 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Life, code and the mind</title>
-    <link>https://avyakta.life/tags/</link>
+    <link>http://localhost:51616/tags/</link>
     <description>Recent content in Tags on Life, code and the mind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://avyakta.life/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Sep 2024 17:29:10 +0530</lastBuildDate>
+    <atom:link href="http://localhost:51616/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React</title>
+      <link>http://localhost:51616/tags/react/</link>
+      <pubDate>Fri, 06 Sep 2024 17:29:10 +0530</pubDate>
+      <guid>http://localhost:51616/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spreadsheet</title>
+      <link>http://localhost:51616/tags/spreadsheet/</link>
+      <pubDate>Fri, 06 Sep 2024 17:29:10 +0530</pubDate>
+      <guid>http://localhost:51616/tags/spreadsheet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtualization</title>
+      <link>http://localhost:51616/tags/virtualization/</link>
+      <pubDate>Fri, 06 Sep 2024 17:29:10 +0530</pubDate>
+      <guid>http://localhost:51616/tags/virtualization/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
