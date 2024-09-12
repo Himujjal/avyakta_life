@@ -2,48 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:51616/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-12T18:34:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-09-12T18:34:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/the-perfect-programming-language/</loc>
+    <lastmod>2024-09-12T18:34:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/react-spreadsheet-with-virtualization-1/</loc>
     <lastmod>2024-09-06T17:29:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51616/posts/</loc>
-    <lastmod>2024-09-06T17:29:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:51616/tags/react/</loc>
-    <lastmod>2024-09-06T17:29:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:51616/posts/react-spreadsheet-with-virtualization-1/</loc>
-    <lastmod>2024-09-06T17:29:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:51616/tags/spreadsheet/</loc>
-    <lastmod>2024-09-06T17:29:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:51616/tags/</loc>
-    <lastmod>2024-09-06T17:29:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:51616/tags/virtualization/</loc>
-    <lastmod>2024-09-06T17:29:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:51616/posts/how-i-write-with-my-eyes-closed/</loc>
+    <loc>http://localhost:1313/posts/how-i-write-with-my-eyes-closed/</loc>
     <lastmod>2024-08-12T14:28:55+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51616/posts/how-offline-first-apps-help/</loc>
+    <loc>http://localhost:1313/posts/how-offline-first-apps-help/</loc>
     <lastmod>2024-08-12T14:10:46+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51616/posts/adapt-or-die-2024/</loc>
+    <loc>http://localhost:1313/posts/adapt-or-die-2024/</loc>
     <lastmod>2024-08-04T05:34:48+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51616/posts/thoughts-travel-faster-than-light/</loc>
+    <loc>http://localhost:1313/posts/i-am-an-internet-addict/</loc>
+    <lastmod>2024-07-13T10:45:28+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/thoughts-travel-faster-than-light/</loc>
     <lastmod>2024-06-17T21:35:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51616/posts/micro-blogs/</loc>
+    <loc>http://localhost:1313/posts/micro-blogs/</loc>
     <lastmod>2024-06-11T01:15:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51616/posts/make-frameworks-stable/</loc>
+    <loc>http://localhost:1313/posts/make-frameworks-stable/</loc>
     <lastmod>2024-03-29T01:15:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:51616/posts/10-forms/</loc>
+    <loc>http://localhost:1313/posts/10-forms/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:51616/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

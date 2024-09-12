@@ -2,66 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Life, code and the mind</title>
-    <link>http://localhost:51616/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Life, code and the mind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Sep 2024 17:29:10 +0530</lastBuildDate>
-    <atom:link href="http://localhost:51616/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Sep 2024 18:34:47 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Perfect Programming Language</title>
+      <link>http://localhost:1313/posts/the-perfect-programming-language/</link>
+      <pubDate>Thu, 12 Sep 2024 18:34:47 +0530</pubDate>
+      <guid>http://localhost:1313/posts/the-perfect-programming-language/</guid>
+      <description></description>
+    </item>
     <item>
       <title>React Spreadsheet With Virtualization 1</title>
-      <link>http://localhost:51616/posts/react-spreadsheet-with-virtualization-1/</link>
+      <link>http://localhost:1313/posts/react-spreadsheet-with-virtualization-1/</link>
       <pubDate>Fri, 06 Sep 2024 17:29:10 +0530</pubDate>
-      <guid>http://localhost:51616/posts/react-spreadsheet-with-virtualization-1/</guid>
-      <description>A series of blog posts on React spreadsheets. How to make one with proper virtualization and proper libraries.&#xA;Kind of like Shadcn for spreadsheets</description>
+      <guid>http://localhost:1313/posts/react-spreadsheet-with-virtualization-1/</guid>
+      <description>A series of blog posts on React spreadsheets. How to make one with proper virtualization and proper libraries.&#xA;Kind of like ShadCN UI for spreadsheets.</description>
     </item>
     <item>
       <title>How I Write With My Eyes Closed with a little help from AI</title>
-      <link>http://localhost:51616/posts/how-i-write-with-my-eyes-closed/</link>
+      <link>http://localhost:1313/posts/how-i-write-with-my-eyes-closed/</link>
       <pubDate>Mon, 12 Aug 2024 14:28:55 +0530</pubDate>
-      <guid>http://localhost:51616/posts/how-i-write-with-my-eyes-closed/</guid>
+      <guid>http://localhost:1313/posts/how-i-write-with-my-eyes-closed/</guid>
       <description>In recent days, I’ve embraced an unconventional method of writing—by closing my eyes.&#xA;I’ve discovered that my thoughts flow more freely when I’m not distracted by the visual feedback of seeing the words as they appear on the screen.&#xA;When I see what I’m typing, my writing slows down as I instinctively edit and correct as I go.&#xA;Instead, I now close my eyes and let my thoughts pour out onto the page, creating a draft full of unfiltered ideas.</description>
     </item>
     <item>
       <title>How Offline First Apps Improve UX</title>
-      <link>http://localhost:51616/posts/how-offline-first-apps-help/</link>
+      <link>http://localhost:1313/posts/how-offline-first-apps-help/</link>
       <pubDate>Mon, 12 Aug 2024 14:10:46 +0530</pubDate>
-      <guid>http://localhost:51616/posts/how-offline-first-apps-help/</guid>
+      <guid>http://localhost:1313/posts/how-offline-first-apps-help/</guid>
       <description>In this post, I&amp;rsquo;ll be discussing with a non-tech person how offline-first apps enhance user experience (UX).&#xA;What is Offline First? Offline first means that any action you take within the app is performed offline first, directly in your browser. If there&amp;rsquo;s an internet connection—which 96% of the people using our product have—we then apply those actions to our back-end.&#xA;So, the user sees the action being taken instantly, while the actual persistence of the action and the state is synced with the back-end and servers later, when possible.</description>
     </item>
     <item>
       <title>Adapt or Die 2024</title>
-      <link>http://localhost:51616/posts/adapt-or-die-2024/</link>
+      <link>http://localhost:1313/posts/adapt-or-die-2024/</link>
       <pubDate>Sun, 04 Aug 2024 05:34:48 +0530</pubDate>
-      <guid>http://localhost:51616/posts/adapt-or-die-2024/</guid>
+      <guid>http://localhost:1313/posts/adapt-or-die-2024/</guid>
       <description>Survival and fighting for survival is in our DNA. That&amp;rsquo;s how our ancestors jumped off those tree brances and started walking off into the sunset. Over the years, we&amp;rsquo;ve adapted to our environment, our surroundings, and our needs. We&amp;rsquo;ve learned to thrive in the harsh conditions of our world. Till today. The 21st century.&#xA;The 21st century Beep. Boop. Beep. The phone&amp;rsquo;s notification lights up. That&amp;rsquo;s life now. What is life in 21st century?</description>
     </item>
     <item>
+      <title>I am an internet addict</title>
+      <link>http://localhost:1313/posts/i-am-an-internet-addict/</link>
+      <pubDate>Sat, 13 Jul 2024 10:45:28 +0530</pubDate>
+      <guid>http://localhost:1313/posts/i-am-an-internet-addict/</guid>
+      <description>This is a confession post. I am an addict. I get addicted stuff quite easily and I don&amp;rsquo;t know why. But I know this. The first step to overcoming addiction is to accept it. To say: &amp;ldquo;I am an addict&amp;rdquo;. So, here I am. Doing just that!&#xA;Internet Addiction from the internet Problems that I face addiction focus procrastination lack of sleep lack of motivation detachment from reality A tour of all the stupid actions (let&amp;rsquo;s call them stupid for now) watching tv series watching youtube videos forgetting How have they affected me I am not able to focus on my work My personal life is gettign affected b these emotions I am not able to sleep I feel less confident Small, baby steps I can take to overcome them How these new steps stack up over a period of time Hoping for a better future&amp;hellip;.</description>
+    </item>
+    <item>
       <title>Thoughts Travel Faster Than Light</title>
-      <link>http://localhost:51616/posts/thoughts-travel-faster-than-light/</link>
+      <link>http://localhost:1313/posts/thoughts-travel-faster-than-light/</link>
       <pubDate>Mon, 17 Jun 2024 21:35:22 +0530</pubDate>
-      <guid>http://localhost:51616/posts/thoughts-travel-faster-than-light/</guid>
+      <guid>http://localhost:1313/posts/thoughts-travel-faster-than-light/</guid>
       <description>In the hustle and bustle of our modern world, where distractions lurk at every corner and the demand for constant attention is unrelenting, finding focus can feel like chasing a fleeting dream. The human mind, akin to a restless monkey swinging from one branch to another, struggles to settle on a single thought amidst the chaos of everyday life.&#xA;Continuous Journalling &amp;amp; ADHD In the quest for clarity and productivity, one technique stands out as a beacon of hope amidst the storm - continuous journalling.</description>
     </item>
     <item>
       <title>Navigating the distracted world</title>
-      <link>http://localhost:51616/posts/micro-blogs/</link>
+      <link>http://localhost:1313/posts/micro-blogs/</link>
       <pubDate>Tue, 11 Jun 2024 01:15:38 +0530</pubDate>
-      <guid>http://localhost:51616/posts/micro-blogs/</guid>
+      <guid>http://localhost:1313/posts/micro-blogs/</guid>
       <description>Imagine drifting to sleep with a heart full of contentment. This simple joy could transform our daily lives, eliminating countless so-called &amp;ldquo;necessities.&amp;rdquo;&#xA;Yet, we&amp;rsquo;re trapped in a whirlwind of distractions. Technology and these &amp;ldquo;needs&amp;rdquo; are evolving faster than our ability to live optimally. And this trend is only accelerating.&#xA;True happiness lies in minimizing distractions and embracing the core elements of our humanity.&#xA;Good food, good routines, good work, good people.</description>
     </item>
     <item>
       <title>Make Frameworks Stable</title>
-      <link>http://localhost:51616/posts/make-frameworks-stable/</link>
+      <link>http://localhost:1313/posts/make-frameworks-stable/</link>
       <pubDate>Fri, 29 Mar 2024 01:15:38 +0530</pubDate>
-      <guid>http://localhost:51616/posts/make-frameworks-stable/</guid>
+      <guid>http://localhost:1313/posts/make-frameworks-stable/</guid>
       <description>Software that lasts for years C. Let&amp;rsquo;s start with C, the grandpa of all languages. 3 years ago I got myself writing tree-sitter-svelte &amp;amp;&amp;amp; Ekon. The projects aren&amp;rsquo;t all original and written from scratch. I had not done C programming since my C classes in University first year (It was 7 years before I started them). C is hard. But C is constant. It hasn&amp;rsquo;t changed in over 40 years. Maybe one or two changes here and there.</description>
     </item>
     <item>
       <title>10 forms</title>
-      <link>http://localhost:51616/posts/10-forms/</link>
+      <link>http://localhost:1313/posts/10-forms/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:51616/posts/10-forms/</guid>
+      <guid>http://localhost:1313/posts/10-forms/</guid>
       <description>Matsya - Water Earth is hidden by it. Its what constitutes life around us.&#xA;We started off at the sea. Tiny blob. Single cell. That&amp;rsquo;s us. The first form of life.&#xA;Water has since been a vital part of who we are. 70% of us, are in water.&#xA;&amp;hellip; To be continued</description>
     </item>
   </channel>
