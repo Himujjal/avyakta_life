@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Example</title>
+    <link>http://localhost:1313/hugo-brewm/id/series/</link>
+    <description>Artikel Terbaru dalam Series pada Example</description>
+    <generator>Hugo 0.143.1</generator>
+    <language>id-ID</language>
+    <managingEditor>Author Name</managingEditor>
+    
+      <webMaster>Author Name</webMaster>
+    <copyright>Copyright 2025 (c) Foxxi</copyright>
+    <lastBuildDate>Sun, 16 Feb 2025 05:36:59 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-brewm/id/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
