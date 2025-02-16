@@ -1,5 +1,5 @@
 +++
-author = ["Author Name"]
+author = ["himu"]
 title = "Authoring The Redaction History"
 description = "How to set up the redaction history in Hugo Brewm theme"
 date = "2025-02-03"
@@ -14,10 +14,10 @@ history = [
   {date = "2025-02-02", author = "Author Name", editor = "Editor Name", note = "Addendum (example)"},
   {date = "2025-02-03", note = "Errata (example)"},
 ]
-toot = "https://infosec.exchange/@foxx/113979609651534969"
+toot = "https://github.com/Himujjal"
 +++
 
-The redaction history functionality enables you to track and communicate content modifications to readers. 
+The redaction history functionality enables you to track and communicate content modifications to readers.
 Within the post's front matter, you can specify details such as `editor`, `reviewer`, and include explanatory notes (`note`) about the changes made.
 This feature requires manual configuration in the post's front matter section.
 

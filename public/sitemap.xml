@@ -2,21 +2,9 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/hugo-brewm/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
     
-      <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/hugo-brewm/id/sitemap.xml</loc>
-    
-      <lastmod>2025-02-04T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/hugo-brewm/it/sitemap.xml</loc>
+      <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     
   </sitemap>
   

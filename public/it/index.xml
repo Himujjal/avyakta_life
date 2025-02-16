@@ -2,15 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Example</title>
-    <link>http://localhost:1313/hugo-brewm/it/</link>
+    <link>http://localhost:1313/it/</link>
     <description>Recent Posts on Example</description>
     <generator>Hugo 0.143.1</generator>
     <language>it-IT</language>
     <managingEditor>Author Name</managingEditor>
     
       <webMaster>Author Name</webMaster>
-    <copyright>Copyright 2025 (c) Foxxi</copyright>
-    <lastBuildDate>Sun, 16 Feb 2025 05:36:59 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-brewm/it/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 05:39:22 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/it/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
