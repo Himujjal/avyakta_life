@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authoring on Example</title>
-    <link>http://localhost:1313/en/categories/authoring/</link>
+    <link>https://avyakta.life/en/categories/authoring/</link>
     <description>Recent Posts in Authoring on Example</description>
     <generator>Hugo 0.143.1</generator>
     <language>en-GB</language>
     <managingEditor>Author Name</managingEditor>
     
       <webMaster>Author Name</webMaster>
-    <lastBuildDate>Sun, 16 Feb 2025 05:45:46 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/categories/authoring/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 05:47:02 +0530</lastBuildDate>
+    <atom:link href="https://avyakta.life/en/categories/authoring/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Authoring Terms Entry</title>
-      <link>http://localhost:1313/en/post/authoring-terms-entry/</link>
+      <link>https://avyakta.life/en/post/authoring-terms-entry/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/post/authoring-terms-entry/</guid>
+      <guid>https://avyakta.life/en/post/authoring-terms-entry/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Authoring The Redaction History</title>
-      <link>http://localhost:1313/en/post/authoring-redaction-history/</link>
+      <link>https://avyakta.life/en/post/authoring-redaction-history/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/post/authoring-redaction-history/</guid>
+      <guid>https://avyakta.life/en/post/authoring-redaction-history/</guid>
       <description></description>
       
     </item>

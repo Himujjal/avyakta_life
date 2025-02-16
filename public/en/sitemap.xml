@@ -2,207 +2,212 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/footer/</loc>
+    <loc>https://avyakta.life/en/footer/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/slide/</loc>
+    <loc>https://avyakta.life/en/slide/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/author/</loc>
+    <loc>https://avyakta.life/en/author/a.n.-other/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/authoring/</loc>
+    <loc>https://avyakta.life/en/author/</loc>
+    <lastmod>2025-02-16T05:46:11+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>https://avyakta.life/en/author/author-name/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/categories/authoring/</loc>
+    <loc>https://avyakta.life/en/tags/authoring/</loc>
+    <lastmod>2025-02-16T05:46:11+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>https://avyakta.life/en/categories/authoring/</loc>
+    <lastmod>2025-02-16T05:46:11+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>https://avyakta.life/en/post/authoring-terms-entry/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/post/authoring-terms-entry/</loc>
+    <loc>https://avyakta.life/en/post/authoring-redaction-history/</loc>
+    <lastmod>2025-02-16T05:46:11+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>https://avyakta.life/en/categories/</loc>
+    <lastmod>2025-02-16T05:46:11+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>https://avyakta.life/en/tags/cover/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/post/authoring-redaction-history/</loc>
+    <loc>https://avyakta.life/en/tags/history/</loc>
+    <lastmod>2025-02-16T05:46:11+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>https://avyakta.life/en/tags/redaction/</loc>
+    <lastmod>2025-02-16T05:46:11+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>https://avyakta.life/en/tags/</loc>
+    <lastmod>2025-02-16T05:46:11+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>https://avyakta.life/en/tags/taxonomy/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://avyakta.life/en/tags/terms/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/cover/</loc>
+    <loc>https://avyakta.life/en/tags/accent/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/history/</loc>
+    <loc>https://avyakta.life/en/tags/color/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/redaction/</loc>
+    <loc>https://avyakta.life/en/tags/configuration/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://avyakta.life/en/categories/configuration/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/taxonomy/</loc>
+    <loc>https://avyakta.life/en/post/configure-discussion/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/terms/</loc>
+    <loc>https://avyakta.life/en/post/configure-slides/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/accent/</loc>
+    <loc>https://avyakta.life/en/post/configure-logo-and-accent-color/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/color/</loc>
+    <loc>https://avyakta.life/en/post/configure-main-footer/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/configuration/</loc>
+    <loc>https://avyakta.life/en/post/configure-menu/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/categories/configuration/</loc>
+    <loc>https://avyakta.life/en/post/configure-pagefind/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/post/configure-discussion/</loc>
+    <loc>https://avyakta.life/en/tags/discussion/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/post/configure-slides/</loc>
+    <loc>https://avyakta.life/en/tags/footer/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/post/configure-logo-and-accent-color/</loc>
+    <loc>https://avyakta.life/en/categories/homepage/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/post/configure-main-footer/</loc>
+    <loc>https://avyakta.life/en/tags/logo/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/post/configure-menu/</loc>
+    <loc>https://avyakta.life/en/tags/markdown/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/post/configure-pagefind/</loc>
+    <loc>https://avyakta.life/en/post/markdown-test/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/discussion/</loc>
+    <loc>https://avyakta.life/en/tags/menu/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/footer/</loc>
+    <loc>https://avyakta.life/en/tags/pagefind/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/categories/homepage/</loc>
+    <loc>https://avyakta.life/en/tags/slide/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/logo/</loc>
+    <loc>https://avyakta.life/en/categories/test/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/markdown/</loc>
+    <loc>https://avyakta.life/en/</loc>
+    <lastmod>2025-02-16T05:46:11+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>https://avyakta.life/en/author/himu/</loc>
+    <lastmod>2025-02-16T05:46:11+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    </url>
+  <url>
+    <loc>https://avyakta.life/en/rss/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/post/markdown-test/</loc>
+    <loc>https://avyakta.life/en/pin/</loc>
     <lastmod>2025-02-16T05:37:10+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/menu/</loc>
-    <lastmod>2025-02-16T05:37:10+05:30</lastmod>
+    <loc>https://avyakta.life/en/post/</loc>
+    <lastmod>2025-02-16T05:46:11+05:30</lastmod>
     <changefreq>monthly</changefreq>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/pagefind/</loc>
-    <lastmod>2025-02-16T05:37:10+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    </url>
-  <url>
-    <loc>http://localhost:1313/en/tags/slide/</loc>
-    <lastmod>2025-02-16T05:37:10+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    </url>
-  <url>
-    <loc>http://localhost:1313/en/categories/test/</loc>
-    <lastmod>2025-02-16T05:37:10+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    </url>
-  <url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-02-16T05:37:10+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    </url>
-  <url>
-    <loc>http://localhost:1313/en/author/a.n.-other/</loc>
-    <lastmod>2025-02-16T05:37:10+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    </url>
-  <url>
-    <loc>http://localhost:1313/en/author/author-name/</loc>
-    <lastmod>2025-02-16T05:37:10+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    </url>
-  <url>
-    <loc>http://localhost:1313/en/rss/</loc>
-    <lastmod>2025-02-16T05:37:10+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    </url>
-  <url>
-    <loc>http://localhost:1313/en/pin/</loc>
-    <lastmod>2025-02-16T05:37:10+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    </url>
-  <url>
-    <loc>http://localhost:1313/en/post/</loc>
-    <lastmod>2025-02-16T05:37:10+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    </url>
-  <url>
-    <loc>http://localhost:1313/en/series/</loc>
+    <loc>https://avyakta.life/en/series/</loc>
     
     <changefreq>monthly</changefreq>
     </url>

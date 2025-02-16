@@ -2,156 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Example</title>
-    <link>http://localhost:1313/en/tags/</link>
+    <link>https://avyakta.life/en/tags/</link>
     <description>Recent Posts in Tags on Example</description>
     <generator>Hugo 0.143.1</generator>
     <language>en-GB</language>
     <managingEditor>Author Name</managingEditor>
     
       <webMaster>Author Name</webMaster>
-    <lastBuildDate>Sun, 16 Feb 2025 05:39:44 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 05:47:02 +0530</lastBuildDate>
+    <atom:link href="https://avyakta.life/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Authoring</title>
-      <link>http://localhost:1313/en/tags/authoring/</link>
+      <link>https://avyakta.life/en/tags/authoring/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/authoring/</guid>
+      <guid>https://avyakta.life/en/tags/authoring/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Cover</title>
-      <link>http://localhost:1313/en/tags/cover/</link>
+      <link>https://avyakta.life/en/tags/cover/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/cover/</guid>
+      <guid>https://avyakta.life/en/tags/cover/</guid>
       <description></description>
       
     </item>
     <item>
       <title>History</title>
-      <link>http://localhost:1313/en/tags/history/</link>
+      <link>https://avyakta.life/en/tags/history/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/history/</guid>
+      <guid>https://avyakta.life/en/tags/history/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Redaction</title>
-      <link>http://localhost:1313/en/tags/redaction/</link>
+      <link>https://avyakta.life/en/tags/redaction/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/redaction/</guid>
+      <guid>https://avyakta.life/en/tags/redaction/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Taxonomy</title>
-      <link>http://localhost:1313/en/tags/taxonomy/</link>
+      <link>https://avyakta.life/en/tags/taxonomy/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/taxonomy/</guid>
+      <guid>https://avyakta.life/en/tags/taxonomy/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Terms</title>
-      <link>http://localhost:1313/en/tags/terms/</link>
+      <link>https://avyakta.life/en/tags/terms/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/terms/</guid>
+      <guid>https://avyakta.life/en/tags/terms/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Accent</title>
-      <link>http://localhost:1313/en/tags/accent/</link>
+      <link>https://avyakta.life/en/tags/accent/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/accent/</guid>
+      <guid>https://avyakta.life/en/tags/accent/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Color</title>
-      <link>http://localhost:1313/en/tags/color/</link>
+      <link>https://avyakta.life/en/tags/color/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/color/</guid>
+      <guid>https://avyakta.life/en/tags/color/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Configuration</title>
-      <link>http://localhost:1313/en/tags/configuration/</link>
+      <link>https://avyakta.life/en/tags/configuration/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/configuration/</guid>
+      <guid>https://avyakta.life/en/tags/configuration/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Discussion</title>
-      <link>http://localhost:1313/en/tags/discussion/</link>
+      <link>https://avyakta.life/en/tags/discussion/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/discussion/</guid>
+      <guid>https://avyakta.life/en/tags/discussion/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Footer</title>
-      <link>http://localhost:1313/en/tags/footer/</link>
+      <link>https://avyakta.life/en/tags/footer/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/footer/</guid>
+      <guid>https://avyakta.life/en/tags/footer/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Logo</title>
-      <link>http://localhost:1313/en/tags/logo/</link>
+      <link>https://avyakta.life/en/tags/logo/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/logo/</guid>
+      <guid>https://avyakta.life/en/tags/logo/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/en/tags/markdown/</link>
+      <link>https://avyakta.life/en/tags/markdown/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/markdown/</guid>
+      <guid>https://avyakta.life/en/tags/markdown/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Menu</title>
-      <link>http://localhost:1313/en/tags/menu/</link>
+      <link>https://avyakta.life/en/tags/menu/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/menu/</guid>
+      <guid>https://avyakta.life/en/tags/menu/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Pagefind</title>
-      <link>http://localhost:1313/en/tags/pagefind/</link>
+      <link>https://avyakta.life/en/tags/pagefind/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/pagefind/</guid>
+      <guid>https://avyakta.life/en/tags/pagefind/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Slide</title>
-      <link>http://localhost:1313/en/tags/slide/</link>
+      <link>https://avyakta.life/en/tags/slide/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/tags/slide/</guid>
+      <guid>https://avyakta.life/en/tags/slide/</guid>
       <description></description>
       
     </item>

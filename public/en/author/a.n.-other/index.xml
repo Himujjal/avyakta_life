@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A.N. Other on Example</title>
-    <link>http://localhost:1313/en/author/a.n.-other/</link>
+    <link>https://avyakta.life/en/author/a.n.-other/</link>
     <description>Recent Posts in A.N. Other on Example</description>
     <generator>Hugo 0.143.1</generator>
     <language>en-GB</language>
     <managingEditor>Author Name</managingEditor>
     
       <webMaster>Author Name</webMaster>
-    <lastBuildDate>Sun, 16 Feb 2025 05:41:23 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/author/a.n.-other/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 05:47:02 +0530</lastBuildDate>
+    <atom:link href="https://avyakta.life/en/author/a.n.-other/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Authoring Terms Entry</title>
-      <link>http://localhost:1313/en/post/authoring-terms-entry/</link>
+      <link>https://avyakta.life/en/post/authoring-terms-entry/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/post/authoring-terms-entry/</guid>
+      <guid>https://avyakta.life/en/post/authoring-terms-entry/</guid>
       <description></description>
       
     </item>

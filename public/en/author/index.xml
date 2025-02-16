@@ -2,32 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on Example</title>
-    <link>http://localhost:1313/en/author/</link>
+    <link>https://avyakta.life/en/author/</link>
     <description>Recent Posts in Author on Example</description>
     <generator>Hugo 0.143.1</generator>
     <language>en-GB</language>
     <managingEditor>Author Name</managingEditor>
     
       <webMaster>Author Name</webMaster>
-    <lastBuildDate>Sun, 16 Feb 2025 05:39:44 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/author/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 05:47:02 +0530</lastBuildDate>
+    <atom:link href="https://avyakta.life/en/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A.N. Other</title>
-      <link>http://localhost:1313/en/author/a.n.-other/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://avyakta.life/en/author/a.n.-other/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/author/a.n.-other/</guid>
+      <guid>https://avyakta.life/en/author/a.n.-other/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Author Name</title>
-      <link>http://localhost:1313/en/author/author-name/</link>
+      <link>https://avyakta.life/en/author/author-name/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <author>Author Name</author>
+      <guid>https://avyakta.life/en/author/author-name/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Himujjal Upadhyaya</title>
+      <link>https://avyakta.life/en/author/himu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/author/author-name/</guid>
+      <guid>https://avyakta.life/en/author/himu/</guid>
       <description></description>
-      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_and_styrofoam_%E2%80%93_electrostatic_charge_%28235112299%29.jpg" length="0" type="image/jpeg" />
+      <enclosure url="https://avatars.githubusercontent.com/u/18563948?s=400&amp;u=7667648d55faf24202c7598a5b7d41dd92e34a40&amp;v=4" length="0" type="image/jpeg" />
     </item>
   </channel>
 </rss>

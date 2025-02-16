@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accent on Example</title>
-    <link>http://localhost:1313/en/tags/accent/</link>
+    <link>https://avyakta.life/en/tags/accent/</link>
     <description>Recent Posts in Accent on Example</description>
     <generator>Hugo 0.143.1</generator>
     <language>en-GB</language>
     <managingEditor>Author Name</managingEditor>
     
       <webMaster>Author Name</webMaster>
-    <lastBuildDate>Sun, 16 Feb 2025 05:39:44 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/tags/accent/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 05:47:02 +0530</lastBuildDate>
+    <atom:link href="https://avyakta.life/en/tags/accent/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configure Logo and Accent Color</title>
-      <link>http://localhost:1313/en/post/configure-logo-and-accent-color/</link>
+      <link>https://avyakta.life/en/post/configure-logo-and-accent-color/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/post/configure-logo-and-accent-color/</guid>
+      <guid>https://avyakta.life/en/post/configure-logo-and-accent-color/</guid>
       <description></description>
       
     </item>

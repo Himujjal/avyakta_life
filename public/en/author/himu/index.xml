@@ -2,14 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Himujjal Upadhyaya on Example</title>
-    <link>http://localhost:1313/en/author/himu/</link>
+    <link>https://avyakta.life/en/author/himu/</link>
     <description>Recent Posts in Himujjal Upadhyaya on Example</description>
     <generator>Hugo 0.143.1</generator>
     <language>en-GB</language>
     <managingEditor>Author Name</managingEditor>
     
       <webMaster>Author Name</webMaster>
-    <lastBuildDate>Sun, 16 Feb 2025 05:42:52 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/author/himu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Feb 2025 05:47:02 +0530</lastBuildDate>
+    <atom:link href="https://avyakta.life/en/author/himu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authoring The Redaction History</title>
+      <link>https://avyakta.life/en/post/authoring-redaction-history/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <author>Author Name</author>
+      <guid>https://avyakta.life/en/post/authoring-redaction-history/</guid>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;&#xA;&lt;p&gt;Well! I&amp;rsquo;m a chill guy. Yes! The chilld guy trending on social media.&lt;/p&gt;&#xA;&lt;p&gt;I love to build stuffs on my laptop.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Cat_demonstrating_static_cling_with_styrofoam_peanuts.jpg#/media/File:Cat_and_styrofoam_%E2%80%93_electrostatic_charge_%28235112299%29.jpg&#34;&gt;Original image&lt;/a&gt; by &lt;!-- raw HTML omitted --&gt;Sean McGrath&lt;!-- raw HTML omitted --&gt; from Saint John, NB, Canada - &lt;!-- raw HTML omitted --&gt;Cooper and Styrofoam&lt;!-- raw HTML omitted --&gt;, &lt;!-- raw HTML omitted --&gt;CC BY 2.0&lt;!-- raw HTML omitted --&gt;, &lt;!-- raw HTML omitted --&gt;Link&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      
+    </item>
   </channel>
 </rss>
